@@ -108,7 +108,7 @@ public class SpeSkillTest {
         String[] test1H = new String[]{"red", "blue", "yellow", "black", "grey", "blue"};
         System.out.println(haystack(test1H, "blue"));
         
-        // 
+        // THE BLUE OCEAN REVERSE
 
         int[] test1BO = new int[]{1,2,3,4,6,10};
         int[] remove1BO = new int[]{1};
